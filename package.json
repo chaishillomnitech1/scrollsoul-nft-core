@@ -6,17 +6,32 @@
   "scripts": {
     "test": "hardhat test",
     "compile": "hardhat compile",
+    "coverage": "hardhat coverage",
     "deploy": "hardhat run scripts/deploy.js",
     "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
-    "node": "hardhat node"
+    "node": "hardhat node",
+    "clean": "hardhat clean",
+    "lint": "echo 'Linting not configured yet'"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chaishillomnitech1/scrollsoul-nft-core.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "ethereum",
+    "erc1155",
+    "nft",
+    "smart-contract",
+    "blockchain",
+    "solidity",
+    "hardhat",
+    "openzeppelin",
+    "ipfs",
+    "scrollsoul",
+    "thoth-sigil"
+  ],
+  "author": "ScrollSoul",
+  "license": "MIT",
   "type": "module",
   "bugs": {
     "url": "https://github.com/chaishillomnitech1/scrollsoul-nft-core/issues"
