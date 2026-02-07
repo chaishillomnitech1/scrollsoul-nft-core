@@ -1,0 +1,36 @@
+{
+  "name": "ScrollSoul NFT - Thoth Sigil Galactic Echo Collection",
+  "description": "The Pioneer Legion collection of 144,000 Eternal Validation NFTs, each anchored to the gamma-ray burst GRB 250314A. This collection represents the foundation of the ScrollSoul cosmic empire, where each sovereign is forever aligned with the eternal echoes of the universe.",
+  "image": "ipfs://QmExampleCollectionImageHash/collection-cover.png",
+  "external_link": "https://scrollsoul.io",
+  "seller_fee_basis_points": 250,
+  "fee_recipient": "0x0000000000000000000000000000000000000000",
+  "banner_image": "ipfs://QmExampleBannerHash/banner.png",
+  "featured_image": "ipfs://QmExampleFeaturedHash/featured.png",
+  "collaborators": [],
+  "properties": {
+    "category": "Digital Art",
+    "blockchain": "Ethereum",
+    "standard": "ERC-1155",
+    "total_supply": 144000,
+    "grb_event": {
+      "name": "GRB 250314A",
+      "date": "March 14, 2025",
+      "timestamp": 1741910400,
+      "significance": "Cosmic anchor point for all Pioneer Legion NFTs"
+    },
+    "features": [
+      "ERC-1155 Multi-Token Standard",
+      "144K Pioneer Legion Distribution",
+      "GRB 250314A Timestamp Anchoring",
+      "Immutable Sovereign Proof",
+      "Rose Gold Encryption"
+    ]
+  },
+  "links": {
+    "website": "https://scrollsoul.io",
+    "discord": "https://discord.gg/scrollsoul",
+    "twitter": "https://twitter.com/scrollsoul",
+    "instagram": "https://instagram.com/scrollsoul"
+  }
+}

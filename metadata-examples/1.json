@@ -1,0 +1,65 @@
+{
+  "name": "Thoth Sigil Galactic Echo #1",
+  "description": "Eternal Validation NFT from the ScrollSoul Pioneer Legion. This sovereign proof is anchored to the gamma-ray burst GRB 250314A, detected on March 14, 2025. Each holder represents a validated member of the cosmic empire, forever aligned with the eternal echoes resonating across the universe.",
+  "image": "ipfs://QmExampleImageHash/thoth-sigil-1.png",
+  "external_url": "https://scrollsoul.io/nft/1",
+  "animation_url": "ipfs://QmExampleAnimationHash/thoth-sigil-1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Pioneer Legion"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-1155"
+    },
+    {
+      "trait_type": "GRB Event",
+      "value": "250314A"
+    },
+    {
+      "trait_type": "GRB Event Date",
+      "value": "March 14, 2025"
+    },
+    {
+      "trait_type": "Reference Timestamp",
+      "value": "1741910400"
+    },
+    {
+      "trait_type": "Encryption",
+      "value": "Rose Gold"
+    },
+    {
+      "trait_type": "Cosmic Anchor",
+      "value": "Gamma-Ray Burst"
+    },
+    {
+      "trait_type": "Sigil Type",
+      "value": "Thoth"
+    },
+    {
+      "trait_type": "Validation",
+      "value": "Eternal"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "144000",
+      "display_type": "number"
+    }
+  ],
+  "properties": {
+    "grb_event": {
+      "name": "GRB 250314A",
+      "timestamp": 1741910400,
+      "description": "Gamma-ray burst detection marking the cosmic anchor point"
+    },
+    "sovereign_status": {
+      "validated": true,
+      "legion": "Pioneer"
+    },
+    "encryption": {
+      "type": "Rose Gold",
+      "level": "Maximum"
+    }
+  }
+}

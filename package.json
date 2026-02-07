@@ -1,0 +1,46 @@
+{
+  "name": "scrollsoul-nft-core",
+  "version": "1.0.0",
+  "description": "🕋 ScrollSoul NFT Core - Thoth Sigil Minting Platform 🌌  The ScrollSoul NFT Core system forms the foundation for distributing the \"Thoth Sigil Galactic Echo – Eternal Validation\" NFTs.  Built using the ERC-1155 multi-token standard with IPFS decentralized storage and Rose Gold Secure encryption.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "coverage": "hardhat coverage",
+    "deploy": "hardhat run scripts/deploy.js",
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
+    "node": "hardhat node",
+    "clean": "hardhat clean",
+    "lint": "echo 'Linting not configured yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaishillomnitech1/scrollsoul-nft-core.git"
+  },
+  "keywords": [
+    "ethereum",
+    "erc1155",
+    "nft",
+    "smart-contract",
+    "blockchain",
+    "solidity",
+    "hardhat",
+    "openzeppelin",
+    "ipfs",
+    "scrollsoul",
+    "thoth-sigil"
+  ],
+  "author": "ScrollSoul",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/chaishillomnitech1/scrollsoul-nft-core/issues"
+  },
+  "homepage": "https://github.com/chaishillomnitech1/scrollsoul-nft-core#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "hardhat": "^2.28.4",
+    "solc": "^0.8.20"
+  }
+}
